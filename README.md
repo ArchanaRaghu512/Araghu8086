@@ -4,6 +4,13 @@
 
 > This repository contains folders with different public datasets taken from various sources for the purpose of analyzing them.
 
+
+## **Assignments**
+
+> * Information Seeking assignment.  
+> * Data Entry Analysis.  
+> * Data Cleaning Dicumentation.  
+
 ## **Authors**
 
 > **Name:** _Archana Raghu_. 

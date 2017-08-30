@@ -7,9 +7,9 @@
 
 ## **Assignments**
 
-> * [**Information Seeking assignment**]  
-> * [**Data Entry Analysis**]  
-> * [**Data Cleaning Dicumentation**]  
+> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
+> * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)    
+> * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
 
 ## **Authors**
 

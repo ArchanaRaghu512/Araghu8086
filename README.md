@@ -17,7 +17,7 @@ The license used for this project is [LICENSE](https://github.com/ArchanaRaghu51
 
 * [**GitHub Guide**](https://guides.github.com/activities/hello-world/)
 * [**Markdown Guide**](https://www.markdownguide.org)
-* [**Take it to the NEXT LEVEL!!**](https://www.codeschool.com/courses/mastering-github)
+* [**Taking it to the NEXT LEVEL!!**](https://www.codeschool.com/courses/mastering-github)
 * [**Now let's take a breather!!**](https://i.pinimg.com/736x/74/56/0e/74560e4271d599f06e4b93e71f4a3836--calvin-and-hobbes-quotes-calvin--hobbes.jpg)
 
 

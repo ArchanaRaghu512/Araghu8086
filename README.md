@@ -1,4 +1,4 @@
-# Araghu8086
+# Araghu/8086
 
 ## **Introduction**
 
@@ -11,7 +11,7 @@ This repository contains folders with different public datasets taken from vario
 
 ## **License & Copyright**
 
-The license used for this project is [LICENSE](https://github.com/ArchanaRaghu512/Araghu8086/blob/master/LICENSE)
+The license used for this project is [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/ArchanaRaghu512/Araghu8086/blob/master/LICENSE)
 
 ## **Helpful Links and articles related to GitHub**
 

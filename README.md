@@ -7,9 +7,9 @@
 
 ## **Assignments**
 
-> * Information Seeking assignment.  
-> * Data Entry Analysis.  
-> * Data Cleaning Dicumentation.  
+> * [**Information Seeking assignment**]  
+> * [**Data Entry Analysis**]  
+> * [**Data Cleaning Dicumentation**]  
 
 ## **Authors**
 

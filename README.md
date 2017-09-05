@@ -8,7 +8,7 @@
 ## **Assignments**
 
 > * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
-> For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources.  
+> **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources.**
 > **The datsets are:**
 > * **Game of Thrones**
 > * **Youtube Spam comments**

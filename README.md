@@ -7,15 +7,16 @@
 
 ## **Assignments**
 
-### > * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
-### > **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources.**
-> **The datsets are:**
-> * **Game of Thrones**
-> * **Youtube Spam comments**
-> * **Crime Data in the city of Los Angeles from 2010 to present**
+> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
+> ** For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources.**
 
-### > * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)    
-### > * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
+> **The datsets are:**
+>> * **Game of Thrones**
+>> * **Youtube Spam comments**
+>> * **Crime Data in the city of Los Angeles from 2010 to present**
+
+###> * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)    
+###> * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
 
 ## **Authors**
 

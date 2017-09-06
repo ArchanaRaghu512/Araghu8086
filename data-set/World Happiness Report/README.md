@@ -27,8 +27,8 @@ at an event celebrating International Day of Happiness on March 20th.
 
 # Data Source Citation 
 
-** World Happiness Report (2017) Helliwell, J., Layard, R., & Sachs, J. (2017), 
+**World Happiness Report (2017) Helliwell, J., Layard, R., & Sachs, J. (2017), 
 New York: Sustainable Development Solutions Network. 
-Retrieved from https://data.world/laurel/world-happiness-report-data **
+Retrieved from https://data.world/laurel/world-happiness-report-data**
 
 # [License Information](https://creativecommons.org/publicdomain/zero/1.0)

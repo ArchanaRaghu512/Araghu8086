@@ -13,7 +13,7 @@
   
   [**This dataset was created as a part of their Bayesian Survival Analysis which can be found here**](http://allendowney.blogspot.com/2015/03/bayesian-survival-analysis-for-game-of.html)
 
-> Finally, the third dataset is the "*_character-predictions.csv_*". It includes their predictions on which character will die. 
+> Finally, the third dataset is the "**_character-predictions.csv_**". It includes their predictions on which character will die. 
 
 [**The methodology of which can be found here**](https://got.show/machine-learning-algorithm-predicts-death-game-of-thrones)
 

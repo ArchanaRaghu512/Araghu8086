@@ -6,7 +6,7 @@
 
 ## **Assignments**
 
-> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set\)   
+> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set)   
 > **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources**
 
 > **The datsets are:**

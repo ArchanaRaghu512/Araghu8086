@@ -20,7 +20,8 @@
 
 ## **Authors**
 
-> **Name:** _Archana Raghu_. 
+> **Name:** _Archana Raghu_
+
 > **UNO_ID** _10477083_
 
 ## **License & Copyright**

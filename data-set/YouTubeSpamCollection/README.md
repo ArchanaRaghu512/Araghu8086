@@ -26,7 +26,7 @@
 
 **The collection is composed by one CSV file per dataset, where each line has the following attributes:** 
 
-** "_COMMENT_ID, AUTHOR, DATE, CONTENT, TAG_" **
+**"_COMMENT_ID, AUTHOR, DATE, CONTENT, TAG_"**
 
 # **Relevant Papers:**
 

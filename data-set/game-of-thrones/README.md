@@ -28,3 +28,5 @@
 Game Of Thrones(2106). Retrieved from https://data.world/data-society/game-of-thrones
 
 ## [**Contributors**](https://data.world/data-society/game-of-thrones/contributors)
+
+## [**License**](https://creativecommons.org/publicdomain/zero/1.0/)

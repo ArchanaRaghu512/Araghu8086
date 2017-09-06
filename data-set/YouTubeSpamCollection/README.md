@@ -22,21 +22,21 @@
 > ## **Note: the chronological order of the comments were kept.**
 
 
-**Attribute Information:**
+# **Attribute Information:**
 
 **The collection is composed by one CSV file per dataset, where each line has the following attributes:** 
 
 **_COMMENT_ID,AUTHOR,DATE,CONTENT,TAG_**
 
-**Relevant Papers:**
+# **Relevant Papers:**
 
 > Alberto, T.C., Lochter J.V., Almeida, T.A. TubeSpam: Comment Spam Filtering on YouTube. Proceedings of the 14th IEEE International Conference on Machine Learning and Applications (ICMLA'15), 1-6, Miami, FL, USA, December, 2015. 
 
 > T.A. ALMEIDA, T.P. SILVA, I. SANTOS and J.M. GOMEZ HIDALGO. Text Normalization and Semantic Indexing to Enhance Instant Messaging and SMS Spam Filtering. Knowledge-Based Systems, Elsevier, 108(2016), 25-32, 2016. 
 
-#[**Link to the Sources**](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection)
+# [**Link to the Sources**](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection)
 
-#[**Link to the References**](http://dcomp.sor.ufscar.br/talmeida/youtubespamcollection/)
+# [**Link to the References**](http://dcomp.sor.ufscar.br/talmeida/youtubespamcollection/)
 
 
 

@@ -6,17 +6,20 @@
 
 ## **Assignments**
 
-> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set)   
+> ## * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set)   
 
 > **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources**
 
 > **The datsets are:**
+
 >> * [**Game of Thrones**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set/game-of-thrones)
 >> * [**Youtube Spam comments**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set/YouTubeSpamCollection)
 >> * [**America's Health Care Plan Poll**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set/ahca-polls)
 
-> * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)    
-> * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
+
+> ## * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)   
+
+> ## * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
 
 ## **Authors**
 

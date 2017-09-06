@@ -34,9 +34,19 @@
 
 > T.A. ALMEIDA, T.P. SILVA, I. SANTOS and J.M. GOMEZ HIDALGO. Text Normalization and Semantic Indexing to Enhance Instant Messaging and SMS Spam Filtering. Knowledge-Based Systems, Elsevier, 108(2016), 25-32, 2016. 
 
-# [**Link to the Sources**](https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection)
+# Questions 
 
-# [**Link to the References**](http://dcomp.sor.ufscar.br/talmeida/youtubespamcollection/)
+ * which artist has had the most collection of spam ?
+ * What are the ten most viewed videos ?
+ * What class do these comments belong to ?
+ 
+# Data Source Citation
+
+Youtube Spam Collection © Tiago A. Almeida and Tulio C. Alberto, 2015.
+
+Retreived from https://archive.ics.uci.edu/ml/datasets/YouTube+Spam+Collection
+
+# [**Link to the Reference**](http://dcomp.sor.ufscar.br/talmeida/youtubespamcollection/)
 
 
 

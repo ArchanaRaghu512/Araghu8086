@@ -4,16 +4,15 @@
 
 > This repository contains folders with different public datasets taken from various sources for the purpose of analyzing them.
 
+## **Assignments**
 
- Assignments
-
-> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
+> * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set\)   
 > **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources**
 
 > **The datsets are:**
 >> * **Game of Thrones**
 >> * **Youtube Spam comments**
->> * **Crime Data in the city of Los Angeles from 2010 to present**
+>> * **America's Health Care Plan Poll**
 
 > * [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)    
 > * [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)

@@ -20,10 +20,9 @@ The dataset used here is the World Happiness report for the year 2017, which ran
 
 # Questions 
 
-* What factors determine a country's happiness score ?
-* What is the average GDP per capita of each family ?
 * How does the Dystopia determine the happiness factor for each country ?
 * What factor played the most important role in determining the happiness rank and the score ?
+* How do the factors determine the increase and decrease in values of economic production ?
 
 # Data Source Citation 
 

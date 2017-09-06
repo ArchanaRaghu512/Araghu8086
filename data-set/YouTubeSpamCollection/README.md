@@ -1,9 +1,9 @@
-#**Youtube Spam Collection
+# **Youtube Spam Collection**
 
 > This dataset contains the information of comments collected for spam research. 
 > It has five datasets composed by 1,956 real messages extracted from five videos that were among the 10 most viewed.
 
-#**Data Set Information**
+# **Data Set Information**
 
 > The table below lists the datasets, the YouTube video ID, the amount of samples in each class and the total number of     samples per dataset. 
 
@@ -14,7 +14,7 @@
 **Eminem ---- uelHwf8o7_U --- 245 --- 203 --- 448** 
 **Shakira --- pRpeEdMmmQ0 --- 174 --- 196 --- 370** 
 
->#**Note: the chronological order of the comments were kept.**
+> # **Note: the chronological order of the comments were kept.**
 
 
 >#**Attribute Information:**

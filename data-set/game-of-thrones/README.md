@@ -17,7 +17,14 @@
 
 [**The methodology of which can be found here**](https://got.show/machine-learning-algorithm-predicts-death-game-of-thrones)
 
+# Questions 
 
-## [**Here is the link to the Source**](https://data.world/data-society/game-of-thrones)
+* What battle had the most deaths ?
+* What region had the most battles ?
+* What house won the most battles ?
+
+## Source Citation 
+
+Game Of Thrones(2106). Retrieved from https://data.world/data-society/game-of-thrones
 
 ## [**Contributors**](https://data.world/data-society/game-of-thrones/contributors)

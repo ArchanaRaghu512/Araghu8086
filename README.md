@@ -5,7 +5,7 @@
 > This repository contains folders with different public datasets taken from various sources for the purpose of analyzing them.
 
 
-## Assignments
+ Assignments
 
 > * [**Information Seeking assignment**](https://github.com/ArchanaRaghu512/Araghu8086)   
 > **For this assignment there are three datasets (_all in the form of csv files_) chosen from different sources**

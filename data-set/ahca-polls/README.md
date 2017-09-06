@@ -10,7 +10,7 @@
 
 # Source
 
-**[Link to the Source]** (https://github.com/fivethirtyeight/data/tree/master/ahca-polls)
+[**Link to the Source**](https://github.com/fivethirtyeight/data/tree/master/ahca-polls)
 
 # License Information
 

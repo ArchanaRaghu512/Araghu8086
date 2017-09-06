@@ -5,8 +5,7 @@
 
 > The World Happiness Report is a landmark survey of the state of global happiness. 
 The first report was published in 2012, the second in 2013, the third in 2015, and the fourth in the 2016 Update. 
-The World Happiness 2017, which ranks 155 countries by their happiness levels, was released at the United Nations 
-at an event celebrating International Day of Happiness on March 20th. 
+The dataset used here is the World Happiness report for the year 2017, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th. 
 
 # Datset
 

@@ -22,7 +22,7 @@ The dataset used here is the World Happiness report for the year 2017, which ran
 
 * What factors determine a country's happiness score ?
 * What is the average GDP per capita of each family ?
-* What is the Dystopia factor and how does it determine the happiness factor for each country ?
+* How does the Dystopia determine the happiness factor for each country ?
 * What factor played the most important role in determining the happiness rank and the score ?
 
 # Data Source Citation 

@@ -36,7 +36,7 @@
 
 # Questions 
 
- * which artist has had the most collection of spam ?
+ * Which artist has had the most collection of spam ?
  * What are the ten most viewed videos ?
  * What class do these comments belong to ?
  

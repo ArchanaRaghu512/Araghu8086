@@ -8,9 +8,15 @@
 
 >> **Start, End, Pollster, Favor, Oppose, Url, Text**
 
-# Source
+# Questions
 
-[**Link to the Source**](https://github.com/fivethirtyeight/data/tree/master/ahca-polls)
+ * What was the duration of the poll conducted ?
+ * What is the ratio of votes which favor the act to oppose the act ?
+ * Which sites had the most number of participation ?
+ 
+# Source Citation
+
+AHCA Polls Retreived from https://github.com/fivethirtyeight/data/tree/master/ahca-polls
 
 # License Information
 

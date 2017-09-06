@@ -14,4 +14,4 @@
 
 # License Information
 
-> The data is available under the **Creative Commons Attribution 4.0 International License** and the code is available under the **[MIT License]**(https://github.com/fivethirtyeight/data/blob/master/LICENSE)
+> The data is available under the **Creative Commons Attribution 4.0 International License** and the code is available under the [**MIT License**](https://github.com/fivethirtyeight/data/blob/master/LICENSE)

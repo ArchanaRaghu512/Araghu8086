@@ -26,8 +26,6 @@
 
 > **Name:** _Archana Raghu_
 
-> **UNO_ID** _10477083_
-
 ## **License & Copyright**
 
 > The license used for this project is [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/ArchanaRaghu512/Araghu8086/blob/master/LICENSE)

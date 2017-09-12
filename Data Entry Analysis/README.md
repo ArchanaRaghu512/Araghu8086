@@ -1,8 +1,17 @@
 # Araghu/ISQA8086
 
+# Data Entry Analysis
+
 ## **Introduction**
 
-> This repository contains folders with different public datasets taken from various sources for the purpose of analyzing them.
+> For this Data Entry Analysis assignment, there are three files (form of .csv files) which were part of a study of distribution of two types of zooplanktons during day and night through many years. 
+
+## **Purpose**
+
+> The current files/datasets provided have a number of issues which are :
+  * There are few missing data in the files.
+  * There is no proper description whether the data is missing or is it unknown.
+  * There is no clear details about the temparature recorded (whether
 
 ## **Assignments**
 

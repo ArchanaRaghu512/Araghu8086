@@ -18,7 +18,7 @@
 >> * [**America's Health Care Plan Poll**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/data-set/ahca-polls)
 
 
-> ## [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086)   
+> ## [**Data Entry Analysis**](https://github.com/ArchanaRaghu512/Araghu8086/tree/master/Data%20Entry%20Analysis)   
 
 > ## [**Data Cleaning Dicumentation**](https://github.com/ArchanaRaghu512/Araghu8086)
 

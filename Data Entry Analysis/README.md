@@ -10,7 +10,7 @@
   
   * **There are no details realted to the highlighted data.**
   
-  * **There is no field to determine whether the recordings of the distribution were done during the day or night.
+  * **There is no field to determine whether the recordings of the distribution were done during the day or night.**
   
   * **There is no clear details about the temparature recorded (whether the temparature is reocorded in degree Celsuis or   Fahrenheit).**
   

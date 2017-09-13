@@ -24,12 +24,7 @@
   
 ## Proposed Template
 
-| Date (mm/dd/yyyy)| Time Recorded (am or pm) | Water Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | | Chippo Colonysize | Temperature of water (Celsius or Farheneit)|
-| :----------------:| :-----------------------------------------:|
-|                   |                                            |
-|                   |                                            |
-|                   |                                            |
-
+| Date (mm/dd/yyyy)| Time Recorded (am or pm) | Water Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | 
 | :---------------:| :----------------------: | :---------------------: |:---------:| :-------------: | :--------: | 
 |                  |                          |                         |           |                 |            |
 |                  |                          |                         |           |                 |            |

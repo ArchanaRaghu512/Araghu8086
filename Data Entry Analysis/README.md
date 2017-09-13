@@ -6,9 +6,11 @@
 
 > **The current files/datasets provided have a number of issues which are :**
 
-  * **There are few missing data in the files. what does the empty coulumns mean (Undocumented or Missing) ?**
+  * **There are few missing data in the files. What do those empty coloumns mean (Undocumented or Missing) ?**
   
   * **There are no details realted to the highlighted data.**
+  
+  * **There is no field to determine whether the recordings of the distribution were done during the day or night.
   
   * **There is no clear details about the temparature recorded (whether the temparature is reocorded in degree Celsuis or   Fahrenheit).**
   
@@ -22,11 +24,22 @@
   
 ## Proposed Template
 
-| Date | Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | Chippo ColonySize | Chla  | Temp (in Fahrenheit)|
-| :---:| :---------------: | :-------: | :-------------: |:----------:| :---------------: | :---: | :------------------:|
-|      |                   |           |                 |            |                   |       |                     |
-|      |                   |           |                 |            |                   |       |                     |
-|      |                   |           |                 |            |                   |       |                     | 
+| Date (mm/dd/yyyy)| Time Recorded (am or pm) | Water Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | | Chippo Colonysize | Temperature of water (Celsius or Farheneit)|
+| :----------------:| :-----------------------------------------:|
+|                   |                                            |
+|                   |                                            |
+|                   |                                            |
+
+| :---------------:| :----------------------: | :---------------------: |:---------:| :-------------: | :--------: | 
+|                  |                          |                         |           |                 |            |
+|                  |                          |                         |           |                 |            |
+|                  |                          |                         |           |                 |            |
+
+| Chippo Colonysize | Temperature of water (Celsius or Farheneit)|
+| :----------------:| :-----------------------------------------:|
+|                   |                                            |
+|                   |                                            |
+|                   |                                            |
 
 ## **Authors**
 

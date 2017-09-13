@@ -22,11 +22,12 @@
   
 ## Proposed Template
 
-| Date | Depth (in metres) | Cuni ColonySize | Chippo #/L | Chippo ColonySize | Chla  | Temp (in Fahrenheit)|
-| :---:| :---------------: | :-------------: |:----------:| :---------------: | :---: | :------------------:|
-|      |                   |                 |            |                   |       |                     |
-|      |                   |                 |            |                   |       |                     |
-       
+| Date | Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | Chippo ColonySize | Chla  | Temp (in Fahrenheit)|
+| :---:| :---------------: | :-------: | :-------------: |:----------:| :---------------: | :---: | :------------------:|
+|      |                   |           |                 |            |                   |       |                     |
+|      |                   |           |                 |            |                   |       |                     |
+|      |                   |           |                 |            |                   |       |                     | 
+
 ## **Authors**
 
 > **Name:** _Archana Raghu_

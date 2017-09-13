@@ -22,7 +22,17 @@
   
   * **What is methodology used to determine the values obtained ? Has the methodology used to measure remained same over the years the studies were conducted ?**
   
-## Proposed Template
+## Proposed Solutions & Template
+
+* **Adding the time recorded field will indicate and provide a clear idea about the day/night factor.**
+
+* **Stating the format of the data in which it has to be entered helps in making sure the data enetered are all in the same format.**
+
+* **The comments column can be used to add extra information about each data entered to help the people analyze the data better.**
+
+* **Also specifying the what is measured in terms of depth and temperature can help to avoid confusions.**
+
+## **Template**
 
 | Date (mm/dd/yyyy)| Time Recorded (am or pm) | Water Depth (in metres) | Cuni #/L  | Cuni ColonySize | Chippo #/L | 
 | :---------------:| :----------------------: | :---------------------: |:---------:| :-------------: | :--------: | 
@@ -36,13 +46,7 @@
 |                   |                                            |       |          |
 |                   |                                            |       |          |
 
-## **Authors**
 
-> **Name:** _Archana Raghu_
-
-## **License & Copyright**
-
-> The license used for this project is [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/ArchanaRaghu512/Araghu8086/blob/master/LICENSE)
 
 
 

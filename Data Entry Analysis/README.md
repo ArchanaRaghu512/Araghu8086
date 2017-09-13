@@ -22,12 +22,11 @@
   
 ## Proposed Template
 
-| Tables        | Are           | Cool  | Tables        | Are           | Cool  |  
-| ------------- |:-------------:| -----:| ------------- |:-------------:| -----:| 
-| col 3 is      | right-aligned | $1600 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 | col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 | zebra stripes | are neat      |    $1 |
-
+| Date | Depth (in metres) | Cuni ColonySize | Chippo #/L | Chippo ColonySize | Chla  | Temp (in Fahrenheit)|
+| :---:| :---------------: | :-------------: |:----------:| :---------------: | :---: | :------------------:|
+|      |                   |                 |            |                   |       |                     |
+|      |                   |                 |            |                   |       |                     |
+       
 ## **Authors**
 
 > **Name:** _Archana Raghu_

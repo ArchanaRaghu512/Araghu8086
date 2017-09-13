@@ -30,12 +30,13 @@
 |                  |                          |                         |           |                 |            |
 |                  |                          |                         |           |                 |            |
 
-| Chippo Colonysize | Temperature of water (Celsius or Farheneit)|
-| :----------------:| :-----------------------------------------:|
-|                   |                                            |
-|                   |                                            |
-|                   |                                            |
-|                   |                                            |
+| Chippo Colonysize | Temperature of water (Celsius or Farheneit)|  Chla |
+|                   |                                            |       |
+|:----------------: | :-----------------------------------------:| :---: |
+|                   |                                            |       | 
+|                   |                                            |       |
+|                   |                                            |       |
+|                   |                                            |       |
 
 ## **Authors**
 

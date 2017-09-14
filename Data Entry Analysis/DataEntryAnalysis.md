@@ -2,7 +2,7 @@
 
 # Data Entry Analysis
 
-> **For this Data Entry Analysis assignment, there are three files (form of .csv files) which were part of a study of distribution of two types of zooplanktons during day and night through many years.**
+> **For this Data Entry Analysis assignment, there are three files (form of .csv files) which were part of a study of distribution of two types of Zooplanktons during day and night through many years.**
 
 > **The current files/datasets provided have a number of issues which are :**
 
